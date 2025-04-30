@@ -34,5 +34,6 @@ Here we implement a Machine Learnig (ML) agorithm : Random Forest Classifier (Tr
     number of estimators : 500 <br>
 
 - Outcome : 
-  Calculated the permutation importance score to see whcih rails are sensitive on predicting the burn units. 
-  
+  Calculated the permutation importance score to see which rails are sensitive on predicting the burn units. 
+  ![image](https://github.com/user-attachments/assets/bb23f23c-47d6-46bd-8ff7-dfba67a0b5e7) <br>
+
