@@ -20,11 +20,12 @@ Here we implement a Machine Learnig (ML) agorithm : Random Forest Classifier (Tr
 
 - Algorithm Detail :
   - Input feature :
-    We have the Raw Current (I) data for a measured voltage. 
-    ** Total Input feature ** : 48 VCC rails. 
-    ** Total Example (no. of units / dies) ** : 50K units.
+    We have the Raw Current (I) data for a measured voltage.<br>
+    **Total Input feature** : 48 VCC rails. <br>
+    **Total Example (no. of units / dies)** : 50K units.
   - Output Label :
-    Burnt / not-burnt units , **burnt labeled as 0 ** and ** not-burnt labeled as 1 **
-
-
+    Burnt / not-burnt units <br>
+    **burnt labeled as 0** and **not-burnt labeled as 1**
+  - Algorithm architecture :
+    
 
