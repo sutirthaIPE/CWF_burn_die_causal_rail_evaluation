@@ -27,5 +27,6 @@ Here we implement a Machine Learnig (ML) agorithm : Random Forest Classifier (Tr
     Burnt / not-burnt units <br>
     **burnt labeled as 0** and **not-burnt labeled as 1**
   - Algorithm architecture :
-    
+    ![image](https://github.com/user-attachments/assets/299b5bec-6d66-49f2-a5f6-33f3548e43ed)
+
 
