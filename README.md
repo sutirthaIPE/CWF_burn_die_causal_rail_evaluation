@@ -16,6 +16,10 @@ CWF Top die showing pull-pad issue due to die burn after electrical die testing.
 
 Approach :
 
-Here we implement the machine learnig (ML) agorithm : Random Forest Classifier algorithm on those VCC rails to calculate the permutance importance to evaluate the sesitivity towards a burnt die prediction. 
+Here we implement a Machine Learnig (ML) agorithm : Random Forest Classifier (Tree Ensemble) on those VCC rails to calculate the permutance importance score to evaluate the sesitivity towards a burnt die prediction. 
+
+- Algorithm Detail :
+  - Input feature :
+    
 
 
