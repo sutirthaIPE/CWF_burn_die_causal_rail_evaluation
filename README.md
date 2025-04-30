@@ -27,6 +27,12 @@ Here we implement a Machine Learnig (ML) agorithm : Random Forest Classifier (Tr
     Burnt / not-burnt units <br>
     **burnt labeled as 0** and **not-burnt labeled as 1**
   - Algorithm architecture :
-    ![image](https://github.com/user-attachments/assets/299b5bec-6d66-49f2-a5f6-33f3548e43ed)
+    ![image](https://github.com/user-attachments/assets/299b5bec-6d66-49f2-a5f6-33f3548e43ed)<br>
+  - Optimized Parameter :
+    Min Sample per node to split : 10 <br>
+    Max depth for split : 16 <br>
+    number of estimators : 500 <br>
 
-
+- Outcome : 
+  Calculated the permutation importance score to see whcih rails are sensitive on predicting the burn units. 
+  
