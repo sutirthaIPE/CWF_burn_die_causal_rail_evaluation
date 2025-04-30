@@ -32,8 +32,15 @@ Here we implement a Machine Learnig (ML) agorithm : Random Forest Classifier (Tr
     Min Sample per node to split : 10 <br>
     Max depth for split : 16 <br>
     number of estimators : 500 <br>
+  - Algorithm performace : 
+    **Training accuracy** : 0.98
+    **Testing accuracy** : 0.97
 
 - Outcome : 
   Calculated the permutation importance score to see which rails are sensitive on predicting the burn units. 
   ![image](https://github.com/user-attachments/assets/bb23f23c-47d6-46bd-8ff7-dfba67a0b5e7) <br>
+  
 
+- Key Deliverables :
+  This finding suggesting the 1200 mV VCCINF rails (which connects most of the IP) has highest sensitivity towards predicting a die to be burnt. Physically this is also true from PDE perspective.
+  Next step : evaluating the same for new dataset towards conclusion.
