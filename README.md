@@ -45,3 +45,4 @@ Here we implement a Machine Learnig (ML) agorithm : Random Forest Classifier (Tr
   This finding suggesting the 1200 mV VCCINF rails (which connects most of the IP) has highest sensitivity towards predicting a die to be burnt. Physically this is also true from PDE perspective.
   Next step : evaluating the same for new dataset towards conclusion.
   Data received.
+test
