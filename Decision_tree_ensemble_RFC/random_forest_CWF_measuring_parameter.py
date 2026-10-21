@@ -115,7 +115,7 @@ plt.plot(accuracy_list_val)
 plt.legend(['Train','Validation'])
 plt.show()
 
-#===== test 3 ============================
+#===== test 3 for alpha testing============================
 
 for n_estimators in tqdm(n_estimators_list):
     # You can fit the model at the same time you define it, because the fit function returns the fitted estimator.
